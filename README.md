@@ -1,7 +1,5 @@
 <div align="center">
  
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-
 <img width="140" height="80" alt="image" src="https://github.com/user-attachments/assets/3f19f181-094f-4366-b679-d78a03f323e0" /> 
 
 <br> 
@@ -12,7 +10,12 @@
 
 <p>Lista de exercicios feita em C# - matéria de Laboratório Desenvolvimento De Software</p>
 
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+ 
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
 <p>Feita por <a href="https://github.com/otav1n">@otav1n</a> , <a href="https://github.com/LuizzSilva">@LuizzSilva</a> e <a href="https://github.com/Gabriel-S-Mendes">@Gabriel-S-Mendes</a> </p>
+
 
 
 </div>
