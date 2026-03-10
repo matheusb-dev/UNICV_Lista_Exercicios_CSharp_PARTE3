@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace EXSC_
+namespace bloco2
 {
-    internal class Ex33
+    internal class animal
     {
         public class Animal
         {

@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace EXSC_
+namespace bloco2
 {
-    internal class Ex25
+    internal class Dobrarr
     {
         public int Dobrar(int x) => x * 2;
     }

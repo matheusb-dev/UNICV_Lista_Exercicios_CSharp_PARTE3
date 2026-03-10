@@ -1,12 +1,11 @@
 ﻿using System;
 
-namespace EXSC_
+namespace bloco2
 {
-    internal class Ex49
+    internal class Pesssoaa
     {
         public class Pessoa
         {
-            protected string nome;
         }
     }
 }
