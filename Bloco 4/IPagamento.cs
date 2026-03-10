@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EXSC_
+namespace bloco4
 {
     interface IPagamento
     {

@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace EXSC_
+namespace bloco3
 {
-    internal class Ex57
+    internal class TestarCasting
     {
         public void TestarCasting()
         {

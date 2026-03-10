@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace EXSC_
+namespace bloco3
 {
-    internal class Ex53
+    internal class Conta
     {
         public class Conta
         {

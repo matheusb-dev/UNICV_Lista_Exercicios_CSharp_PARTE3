@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace EXSC_
+namespace bloco4
 {
-    internal class Ex81
+    internal class IAnimal
     {
         interface IAnimal
         {

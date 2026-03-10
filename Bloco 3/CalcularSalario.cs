@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace EXSC_
+namespace bloco3
 {
-    internal abstract class Ex69
+    internal abstract class CalcularSalario
     {
         public abstract double CalcularSalario();
     }
