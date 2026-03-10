@@ -1,3 +1,8 @@
-abstract class Forma
+﻿using System;
+
+namespace EXSC_
 {
+    internal abstract class Forma
+    {
+    }
 }
