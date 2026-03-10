@@ -2,9 +2,9 @@
 
 namespace EXSC_
 {
-    internal class Ex37
+    internal class Ex45
     {
-        public class Veiculo
+        public class Pessoa
         {
         }
     }

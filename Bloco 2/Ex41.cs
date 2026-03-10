@@ -1,7 +1,15 @@
-class Veiculo
+﻿using System;
+
+namespace EXSC_
 {
-    public virtual double CalcularConsumo(double distancia, double combustivel)
+    internal class Ex41
     {
-        return distancia / combustivel;
+        public class Veiculo
+        {
+            public virtual double CalcularConsumo()
+            {
+                return 0;
+            }
+        }
     }
 }
