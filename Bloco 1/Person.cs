@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace EXSC_
+namespace bloco1
 {
-    internal class Ex1
+    internal class Person
     {
         public class Pessoa
         {

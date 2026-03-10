@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace EXSC_
+namespace bloco1
 {
-    internal class Ex13
+    internal class aprovado
     {
         public bool Aprovado()
         {

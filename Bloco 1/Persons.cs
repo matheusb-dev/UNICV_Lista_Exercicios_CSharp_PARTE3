@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace EXSC_
+namespace bloco1
 {
-    public class Pessoa
+    public class Persons
     {
         public string Nome { get; set; }
 
