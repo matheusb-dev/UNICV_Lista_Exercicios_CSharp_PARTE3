@@ -1,4 +1,9 @@
-class ContaBancaria
+﻿using System;
+
+namespace EXSC_
 {
-    private double saldo;
+    public class ContaBancaria
+    {
+        private double saldo;
+    }
 }
